@@ -1,32 +1,33 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Maique+Brauns;I'm+19+years+old;I'm+from+Brazil;I+Studying+systems+Analysis;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h1>
+  Me chamo Maique
+</h1>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maiquebrauns&show_icons=true&count_private=true&hide_border=true&title_color=4B0082icon_color=ff91a4&text_color=4B0082&bg_color=0d1117" alt="maiquebrauns github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiquebrauns&layout=compact&hide_border=true&title_color=4B0082&text_color=ff91a4&bg_color=0d1117" />
-</div>
+<p align="left"> 
+  Estou em busca de uma oportunidade para aplicar e desenvolver meus conhecimentos, com foco em aprendizado contínuo e aprimoramento na minha área de formação.
+  Atualmente, dedico-me ao estudo da linguagem ABAP, pela qual desenvolvi grande interesse.<br>
+  <br>Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>
+</p>
 
+<p align="left">
+  🦄 Linguagens:<br>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+  <code><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> </code>
+</p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=maiquebrauns&bg_color=0d1117&color=4B0082&line=4e184a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">
+  Quer entrar em contato comigo ? Segue as minhas redes sociais: ⤵️
+</p>
 
-<div align="center"> 
-<a href="https://instagram.com/maiquebrauns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:maique.brauns2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/maique-brauns-56280b240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <h1 align="center">Aprendendo as Tecnologias</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" alt="SQL-icon" src="https://www.svgrepo.com/show/255832/sql.svg">
-   </div>
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
-  
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-</div>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=maique.brauns2@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiquebrauns" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/maiquebrauns" alt="Instagram"/></a>
+</p>
