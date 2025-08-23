@@ -1,8 +1,10 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 <h1>
-  Me chamo Maique
+  Olá, me chamo Maique !
 </h1>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Estou em busca de uma oportunidade para aplicar e desenvolver meus conhecimentos, com foco em aprendizado contínuo e aprimoramento na minha área de formação.
